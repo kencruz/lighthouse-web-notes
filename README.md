@@ -2,4 +2,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Ken Cruz for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ken](https://github.com/kencruz) for the Lighthouse Labs Web Development Bootcamp.
